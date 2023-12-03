@@ -41,6 +41,8 @@ crm-api> php artisan serve
 then access the crm-client directory in different terminal 
 then run project with command in terminal 
 
+Note: make sure node modules are installed before running the project 
+
 crm-client> npm run dev 
 
 ===================================================
